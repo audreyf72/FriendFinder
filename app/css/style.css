@@ -18,7 +18,7 @@ h3 {
 }
 
 .responsive {
-    max-width: 80px;
+    max-width: 68px;
     width: 12%;
-    vertical-align: top;
+    vertical-align: text-bottom;
 }
