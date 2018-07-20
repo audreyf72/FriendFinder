@@ -1,5 +1,5 @@
 # Big Bang Theory Friend Finder
-Homework #13: A compatibility-based "FriendFinder" application with a Big Bang Theory theme. This full-stack site takes in the results from user surveys, then compares their answers with those from other users. The app will then display the name and picture of the "friend" with the best overall match. Characters from the Big Bang Theory are included in the API.
+Homework #13: A compatibility-based "FriendFinder" application with a Big Bang Theory theme. This full-stack site takes in the results from user surveys, then compares their answers with those from other users. The app will then display the name and picture of the "friend" with the best overall match. Characters from the Big Bang Theory are included in the friends API and may also appear as a friend match.
 
 ## Technologies Used
 
@@ -9,10 +9,11 @@ Homework #13: A compatibility-based "FriendFinder" application with a Big Bang T
 * jQuery
 * Node.js
 * Express
+* JSON
 * GitHub
 * Heroku
 
-## Live Page Link
+## Heroku Page Link
 
 https://dry-castle-14318.herokuapp.com/
 

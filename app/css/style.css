@@ -10,3 +10,15 @@ h2 {
 h3 {
     color: #377bb5;
 }
+
+.homeH2 {
+    color: black;
+    padding-top: 0px;
+    margin-top: 5px;
+}
+
+.responsive {
+    max-width: 80px;
+    width: 12%;
+    vertical-align: top;
+}
