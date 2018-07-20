@@ -20,10 +20,17 @@ https://dry-castle-14318.herokuapp.com/
 ## Screenshots
 
 ### Home Page
+
 ![Alt text](images/home.png)
 
 ### Survey Page
+
 ![Alt text](images/survey.png)
 
 ### Results Modal
+
 ![Alt text](images/results.png)
+
+### Friends Data API
+
+![Alt text](images/api.png)
