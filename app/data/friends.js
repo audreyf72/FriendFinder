@@ -2,7 +2,7 @@ var friendsData = [
     {
         "name":"Sheldon Cooper",
         "photo":"https://the-big-bang-theory.com/images/uploads/5/rs_3463ec66edb459bd1dd.jpg",
-        "scores":[3, 5, 1, 5, 5, 1, 2, 1, 1, 5]
+        "scores":[3, 5, 1, 5, 5, 1, 2, 1, 2, 5]
     },
 
     {
@@ -14,7 +14,7 @@ var friendsData = [
     {
         "name":"Leonard Hofstadter",
         "photo":"https://the-big-bang-theory.com/images/uploads/2/rs_1365ce5b16123fd10b8.jpg",
-        "scores":[5, 5, 1, 3, 4, 4, 1, 3, 4, 5]
+        "scores":[5, 5, 1, 3, 4, 4, 1, 3, 2, 5]
     },
 
     {
